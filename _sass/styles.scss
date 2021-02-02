@@ -1,2 +1,11 @@
 // Import Core Clean Blog SCSS
 @import "../assets/scss/clean-blog.scss";
+
+
+img{
+  display : block;
+  margin : 0 auto;
+}
+blockquote p{
+  text-align : center;
+}
