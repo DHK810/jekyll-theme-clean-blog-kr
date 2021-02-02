@@ -5,7 +5,7 @@ title: '넷플릭스 스위트홈 제목에 부제를 달아보았다.'
 date: 2021-01-30 14:30:00 +09:00
 feature: '/img/posts/01/content_tb.png'
 categories:
-  - slogan
+  - 1
 tags:
   - 넷플릭스
   - 스위트홈
