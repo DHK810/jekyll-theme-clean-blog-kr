@@ -9,3 +9,12 @@ img{
 blockquote p{
   text-align : center;
 }
+.position_fixed {
+  position : fixed;
+  right : 100px;
+  top : 300px;
+}
+
+.active{
+  background-color : green;
+}
